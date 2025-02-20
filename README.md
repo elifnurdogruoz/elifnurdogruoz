@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elifnurdogruoz
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently improving my Python skills.
 - 📫 You can reach me at elifnurdogruoz@gmail.com
 
 <!---
